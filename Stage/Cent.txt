@@ -315,7 +315,7 @@ comme avant...?<NOD<END
 #0370
 <PRI<FLJ1034:0380<MSG<FAC0022<FL+1034Tu t'es bien reposé ?<NOD<CLRLa fusée est finie.<NOD<CLRTu vas pouvoir
 faire la peau au Docteur.<NOD
-J'ai confiance en toi.<NOD<CLRPrends ça avec toi...<NOD<CLO<FAC0000<FLJ0162:0371
+J'ai confiance en toi.<NOD<CLRPrends ca avec toi...<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
 Reçu =Booster v0.8=<WAI0160<NOD<RMU<CLO
