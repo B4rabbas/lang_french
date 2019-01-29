@@ -22,13 +22,13 @@
 #0500
 <KEY<HMC<FOM0016<MYD0002<CMU0000<QUA0050<FAI0001
 <WAI0150
-<MSG<FAC0025Ça s'est arrêté...<NOD<CLR<FAC0019L'île s'est arrêté 
+<MSG<FAC0025Ca s'est arrêté...<NOD<CLR<FAC0019L'île s'est arrêté 
 de tomber !<NOD<CLRPeut-être que l'énergie
 négative s'est affaiblie
 quand on l'a vaincu ?<NOD<CLR<FAC0025.....<NOD<CLRBon, on dirait
 que notre travail ici
 est fini.<NOD<CLO<FAC0000
-<MS2<TUR   Ça fait mal...<WAI0050
+<MS2<TUR   Ca fait mal...<WAI0050
 <MSG<FAC0025Quoi ?<NOD<CLO<FAC0000
 <WAI0100<MS2<TUR     Ça...  brûle.....
 <ANP0410:0010:0000<ANP0411:0010:0002<WAI0050        La douleur...
@@ -60,7 +60,7 @@ Misery l'avait prédit.<NOD<CLR
 <FMU<MSG<TUR
 Duooooooooooooohhhh !!<WAI0100<CLO<WAI0050<FMU<FAO0001
 <WAI0050<PRI<CMU0000
-<MSG<FAC0025Ça va ?<NOD<CLR
+<MSG<FAC0025Ca va ?<NOD<CLR
 <FAC0023Pas vraiment...<NOD
 <TRA0071:0120:0000:0000
 <END
