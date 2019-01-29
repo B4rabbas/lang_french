@@ -27,7 +27,7 @@
 
 
 #0120
-<PRI<FLJ1393:0121<MSGÇa ne s'ouvre pas !<NOD<END
+<PRI<FLJ1393:0121<MSGCa ne s'ouvre pas !<NOD<END
 #0121
 <KEY<FAO0004<FOM0016<TRA0079:0094:0010:0008
 
@@ -113,7 +113,7 @@ forces, ou tu te feras
 <WAS<WAI0050
 <FON0320:0016<MSG<FAC0001Nulle part où aller.
 Va falloir sauter.<NOD
-C'est ça ou alors
+C'est ca ou alors
 se laisser écraser !<NOD<CLRPrêt ?<NOD
 Saute le plus loin
 possible !<NOD<CLO<KEY
