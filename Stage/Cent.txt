@@ -46,7 +46,7 @@ Et c'est fermé à clé.<NOD<END
 <KEY<FAO0000<TRA0061:0090:0029:0009
 
 #0150
-<PRI<FLJ1030:0151<MSGComment t'as fait ça ???<NODC'est encore
+<PRI<FLJ1030:0151<MSGComment t'as fait ca ???<NODC'est encore
 trop tôt pour venir là !... :p<NOD<END
 
 #0151
@@ -156,7 +156,7 @@ Nous, Mimigas, avons cette férocité
 en nous depuis toujours.<NOD
 Les temps anciens contre les robots
 n'étaient qu'une vieille légende !<NOD<CLRHeh-heh-heh...<NOD<CLRFleurissez, petites fleurs...<NOD
-Pour être honnête, ça me fatigue
+Pour être honnête, ca me fatigue
 de faire le fermier.<NOD<END
 
 #0260
