@@ -30,7 +30,7 @@ que notre travail ici
 est fini.<NOD<CLO<FAC0000
 <MS2<TUR   Ca fait mal...<WAI0050
 <MSG<FAC0025Quoi ?<NOD<CLO<FAC0000
-<WAI0100<MS2<TUR     Ça...  brûle.....
+<WAI0100<MS2<TUR     Ca...  brûle.....
 <ANP0410:0010:0000<ANP0411:0010:0002<WAI0050        La douleur...
 <WAI0100<PRI<MSG?!<WAI0050<NOD<CLO<FAC0000<KEY
 <CMU0034<WAI0100
@@ -43,7 +43,7 @@ est fini.<NOD<CLO<FAC0000
 <ANP0401:0000:0000<WAI0020
 <MS2<TUR    Au secours...<WAI0050
      J'ai mal...<WAI0050
-      Ça brûle.....<WAI0050<CLR<CLO
+      Ca brûle.....<WAI0050<CLR<CLO
 <PRI<MSG<FAC0025On va se faire écraser !<NOD<CLO<KEY<WAI0050
 <PRI<FAC0000<MS3Hiyah !<NOD<CLO
 <KEY<CNP0402:0009:0000<WAI0150
