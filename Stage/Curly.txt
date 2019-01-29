@@ -76,7 +76,7 @@ le chien près du lit.<NOD<FL+0564<END
 recherches !<NOD
 Mais ouvre les yeux !<NOD
 Les Mimigas ne sont pas
-nos enemis !<NOD
+nos ennemis !<NOD
 Les Mimigas sont
 inoffensifs !!<NOD<CLRDommage pour toi, mais...<NOD<CLO
 <WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
