@@ -5,7 +5,8 @@ VERSION FRANÇAISE
 Jeu © Pixel 2004
 Traduction par Max le Fou - 2009
 
-Version du jeu : nx-engine-evo 2.6.3
+Version du jeu : nxengine-evo 2.6.3
+
 Version de la traduction : 1.2.5
 
 Notes de version :
