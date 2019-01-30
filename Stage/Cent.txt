@@ -213,7 +213,7 @@ fleurs rouges.<NOD<CLRCe n'est pas la première fois
 que ce genre de truc arrive...<NOD<END
 #0311
 <PRI<MSGJ'ai trouvé cette fille par terre.<NOD
-Elle dit qu'ele se rappelle plus
+Elle dit qu'elle se rappelle plus
 qui elle est...<NOD<CLRElle a été jetée aux ordures,
 je suppose.<NOD<FL+1044<EVE0312
 #0312
