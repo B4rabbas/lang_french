@@ -18,8 +18,8 @@
 #0096
 <MSGVous sentez un vent noir
 souffler.<NOD<CLR
-Toutes les armes tombent
-au level 1 !<NOD<CLO
+Toutes les armes redescendent
+au niveau 1 !<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 
