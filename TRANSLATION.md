@@ -10,6 +10,7 @@ Version du jeu : nxengine-evo 2.6.3
 Version de la traduction : 1.2.5
 
 Notes de version :
+
 1.2.5
 - Correction mineure de certains caractères (Suf au lieu d'"Oeuf" etc) (fork https://github.com/B4rabbas)
 
