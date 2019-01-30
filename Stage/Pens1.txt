@@ -159,7 +159,7 @@ fière chandelle.<NOD
 Avec l'aide de mon frère,<NOD
 on devrait pouvoir
 trouver le mot de passe
-de cet Suf.<NOD<CLO<FAC0000
+de cet oeuf.<NOD<CLO<FAC0000
 <ANP0625:0003:0000<WAI0008
 <ANP0625:0000:0000<MSG<FAC0001Booster !<NOD<CLRCe petit gars viendra
 avec nous ?<NOD<CLO<FAC0000
