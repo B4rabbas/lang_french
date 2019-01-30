@@ -165,7 +165,7 @@ de faire le fermier.<NOD<END
 <FLJ1022:0262
 <FLJ1035:0261
 <FL+1035
-<MSGOh, tiens, c'est toi.<NOD<CLRJ'ai atrappé un truc
+<MSGOh, tiens, c'est toi.<NOD<CLRJ'ai attrapé un truc
 bizarre, là.<NOD
 Tiens, je te le donne.<NOD
 Regarde dans le seau.<NOD<END
@@ -175,7 +175,7 @@ Regarde dans le seau.<NOD<END
 <PRI<MSGOù peut bien aller cette clé ?<NOD<CLRJe serais bien allé 
 fouiller un peu dans les stocks...<NOD<CLRMec, j'ai trop faim...<NOD<END
 #0263
-<PRI<MSGJ'atrappe RIEN DU TOUT ici.<NOD<END
+<PRI<MSGJ'attrape RIEN DU TOUT ici.<NOD<END
 
 #0265
 <PRI
