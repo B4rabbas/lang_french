@@ -7,7 +7,7 @@ Traduction par Max le Fou - 2009
 
 Version du jeu : nxengine-evo 2.6.3
 
-Version de la traduction : 1.2.5
+Version de la traduction : 1.2.5 (30/01/2019)
 
 Notes de version :
 
