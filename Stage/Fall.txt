@@ -72,7 +72,7 @@ et je veux maintenant
 vivre chaque instant<NOD
 un endroit où je pourrais
 me relaxer devant
-uen belle vue...<NOD<CLO<FAC0000
+une belle vue...<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0005Uh, tu sais...<NOD<CLR
 <FAC0025Hm ?<NOD<CLR<FAC0005...Ça vous dérange pas
 si je me joins à vous ?<NOD<CLR
