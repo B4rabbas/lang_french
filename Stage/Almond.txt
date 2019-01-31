@@ -226,9 +226,8 @@ qui m'a jeté ici !<NOD<CLRJ'espère pour toi que
 les enfants vont bien !<NOD<CLR<FAC0016Ha ! Silence !<NOD<CLRPour qui tu te prends ?
 Pour leur mère ?<NOD
 Sais-tu au moins ce
-que c'est que 
-cette chose que vous
-essayez de détruire ?!<NOD<CLR
+qu'est cette chose que
+vous essayez de détruire ?!<NOD<CLR
 <FAC0019Quoi ?<NOD<CLR<FAC0016Hmph. C'est ce que je hais
 chez les robots.<NOD<CLRCeci est le coeur
 de l'île !<NOD<CLRSi tu le détruis, l'île
