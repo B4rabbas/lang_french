@@ -51,7 +51,7 @@ Duh, je croyais que
 VOUS nous détestiez...<NOD<CLR<FAC0005Tu as vaincu Ballos, non ?<NOD<CLRQuand tu as fait ça,
 ça nous as libérés.<NOD
 Aucun de nous deux
-n'ont des ordres
+n'ont d'ordres
 à recevoir maintenant !<NOD<CLR<FAC0019Je pensais que vous
 étiez juste des nuls,<NOD
 Mais je suppose que
@@ -74,12 +74,12 @@ un endroit où je pourrais
 me relaxer devant
 une belle vue...<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0005Uh, tu sais...<NOD<CLR
-<FAC0025Hm ?<NOD<CLR<FAC0005...Ça vous dérange pas
+<FAC0025Hm ?<NOD<CLR<FAC0005...Ça ne vous dérange pas
 si je me joins à vous ?<NOD<CLR
 <FAC0019Bien sur que non !<NOD
 Vivons tous les
 trois ensemble !<NOD<CLR
-<FAC0014Vraiment ?!<NOD<CLR<FAC0019J'te laisse choisir
+<FAC0014Vraiment ?!<NOD<CLR<FAC0019Je te laisse choisir
 le coin.<NOD
 Trouve nous un bon
 coin, okay ?<NOD<CLR
