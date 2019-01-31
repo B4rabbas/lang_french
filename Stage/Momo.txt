@@ -126,7 +126,7 @@ tricité.<NOD
 Si tu peux ammener
 un de ces arroseurs
 utilisés ici,<NOD
-ça pourrait surement
+ça pourrait sûrement
 faire l'affaire.<NOD<CLRPeux-tu me ramener
 un =Arroseur= ?<NOD<END
 
