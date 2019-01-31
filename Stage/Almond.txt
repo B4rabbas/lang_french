@@ -21,7 +21,7 @@
 <FAO0000<TRA0046:0090:0017:0009
 
 #0101
-<KEY<MSGCa ne s'ouvre pas...<NOD<END
+<KEY<MSGÇa ne s'ouvre pas...<NOD<END
 
 #0200
 <KEY
