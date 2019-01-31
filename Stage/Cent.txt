@@ -46,7 +46,7 @@ Et c'est fermé à clé.<NOD<END
 <KEY<FAO0000<TRA0061:0090:0029:0009
 
 #0150
-<PRI<FLJ1030:0151<MSGComment t'as fait ca ???<NODC'est encore
+<PRI<FLJ1030:0151<MSGComment t'as fait ça ???<NODC'est encore
 trop tôt pour venir là !... :p<NOD<END
 
 #0151
@@ -156,7 +156,7 @@ Nous, Mimigas, avons cette férocité
 en nous depuis toujours.<NOD
 Les temps anciens contre les robots
 n'étaient qu'une vieille légende !<NOD<CLRHeh-heh-heh...<NOD<CLRFleurissez, petites fleurs...<NOD
-Pour être honnête, ca me fatigue
+Pour être honnête, ça me fatigue
 de faire le fermier.<NOD<END
 
 #0260
@@ -213,7 +213,7 @@ fleurs rouges.<NOD<CLRCe n'est pas la première fois
 que ce genre de truc arrive...<NOD<END
 #0311
 <PRI<MSGJ'ai trouvé cette fille par terre.<NOD
-Elle dit qu'elle se rappelle plus
+Elle dit qu'elle ne se rappelle plus
 qui elle est...<NOD<CLRElle a été jetée aux ordures,
 je suppose.<NOD<FL+1044<EVE0312
 #0312
@@ -315,7 +315,7 @@ comme avant...?<NOD<END
 #0370
 <PRI<FLJ1034:0380<MSG<FAC0022<FL+1034Tu t'es bien reposé ?<NOD<CLRLa fusée est finie.<NOD<CLRTu vas pouvoir
 faire la peau au Docteur.<NOD
-J'ai confiance en toi.<NOD<CLRPrends ca avec toi...<NOD<CLO<FAC0000<FLJ0162:0371
+J'ai confiance en toi.<NOD<CLRPrends ça avec toi...<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
 Reçu =Booster v0.8=<WAI0160<NOD<RMU<CLO
