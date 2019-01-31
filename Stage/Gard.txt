@@ -90,7 +90,7 @@ si fragiles quand ils
 ne sont pas enragés ?<NOD<CLO<WAI0030<SMC<WAI0030
 <MSGOho !<NOD<CLRTu es ce soldat
 de la surface !<NOD<FON0501:0016<ANP0501:0020:0000<CLRTu arrives au
-très bon moment.<NOD
+bon moment.<NOD
 Tiens, ils sont tout à toi !<NOD<CLROh, non, non,
 ne me remercie pas.<NOD
 Amusez-vous bien
