@@ -129,7 +129,7 @@ sont pas méchants !<NOD<CLRMoi c'est Curly.
 Curly Brace.<NOD
 Quand je me suis réveillée,
 j'étais avec ces enfants.<NOD<CLR<FAC0025Je n'ai aucun souvenir
-d'avant ca...<NOD
+d'avant ça...<NOD
 Amnesie, on pourrait dire.<NOD<CLR<FAC0020J'étais...probablement une
 tueuse de Mimigas comme
 les autres robots...<NOD<CLO
@@ -156,7 +156,7 @@ d'avis, reviens me voir.<NOD<PRI<CLO<MYD0000
 <KEY
 <FLJ0563:0530
 <FLJ0562:0515
-<MSG<FAC0019Huh ?<NOD<CLRTiens voila notre
+<MSG<FAC0019Huh ?<NOD<CLRTiens voilà notre
 Machine à tuer.<NOD<CLRTu veux toujours tuer
 les Mimigas ?<YNJ0510<CLR<FAC0020Je vois...<NOD<CLRQuel manque de pitié...<NOD<END
 
