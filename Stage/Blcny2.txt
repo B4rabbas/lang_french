@@ -73,7 +73,7 @@ THAT'S ALL, FOLKS !<NOD<END
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
 <MSG<FAC0028On a assez d'essence !
-On es prêts à partir.<NOD<CLRHeh... Je n'aurais jamais
+On est prêts à partir.<NOD<CLRHeh... Je n'aurais jamais
 cru que je reviendrais
 à la surface...<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
