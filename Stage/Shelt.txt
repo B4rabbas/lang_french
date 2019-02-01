@@ -138,7 +138,7 @@ KAZ: Kazuma !<NOD
 KAZ: J'ai réussi à m'échapper,
 mais je me suis perdu...<NOD
 KAZ: J'ai trouvé un abri, mais il
-n'y a rien dedans.<NOD
+n'il y a rien dedans.<NOD
 KAZ: Si tu m'entends,
 réponds-moi !<NOD<CLRKAZ: ...S'il te plait ?<NOD
 <FAO0004<SK+0005<TRA0013:0091:0010:0008
