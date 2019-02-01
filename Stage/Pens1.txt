@@ -138,8 +138,8 @@ des amis...<NOD<CLO
 
 #0621
 <KEY<FLJ0158:0631<MSG<FAC0018Les plans du Docteur
-se passent comme il
-le veut...<NOD
+se déroulent comme il
+le souhaite...<NOD
 Si on n'agit pas
 rapidement...<NOD<END
 #0622
