@@ -81,7 +81,7 @@ Les Mimigas sont
 inoffensifs !!<NOD<CLRDommage pour toi, mais...<NOD<CLO
 <WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
 <WAI0010
-<MSGJe suis de leur coté !<NOD<CLRTu vas crever !!<NOD<CLO
+<MSGJe suis de leur côté !<NOD<CLRTu vas crever !!<NOD<CLO
 <BSL0400
 <CMU0004
 <ANP0400:0010:0002
