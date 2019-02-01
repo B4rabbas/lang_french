@@ -60,7 +60,7 @@ le cimetière Mimiga.<NOD<END
 s'est battu contre un
 horrible monstre rouge...<NOD<CLRLe terrible démon de cette
 île qui mange des
-Mimigas.<NOD<CLRC'est pas le Docteur,
+Mimigas.<NOD<CLRCe n'est pas le Docteur,
 c'est...autre chose.<NOD
 Ce démon a vécu sur cette
 île des années durant.<NOD<CLRIl est venu dans ce
