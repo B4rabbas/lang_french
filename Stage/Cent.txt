@@ -360,7 +360,7 @@ Trône. Vite !<NOD<END
 <PRI<MSGHey ! On s'en sert, de celui-là !<NOD<END
 
 #0415
-<PRI<MSGC'est pas en marche.<NOD<FLJ1029:0416<END
+<PRI<MSGCet arroseur est en panne.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
 <CMU0010Trouvé =Arroseur cassé =<WAI0160<NOD<RMU<END
