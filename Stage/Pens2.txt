@@ -35,7 +35,7 @@ SUE: Maman est avec toi ?<NOD<FAO0004<TRA0018:0701:0002:0000
 SUE: Mais il est
 protégé par un
 mot de passe.<NOD
-SUE: Tu saurais regler
+SUE: Tu saurais régler
 ce problème ?<NOD<FAC0000<CLR<TURRecherche informations sur
 utilisateur "Kazuma"...<WAI0150<CLR<TUREffectuée.
 Location: Prairieville Structure D<NOD
