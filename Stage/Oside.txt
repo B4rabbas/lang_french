@@ -32,7 +32,7 @@
 
 #0400
 <KEY<FLJ0960:0401<MSG<FAC0010Si tu cherches
-le noyau, va falloir
+le noyau, il va falloir
 te dépécher.<NOD<END
 #0401
 <KEY<CLO<FON0410:0016<WAI0050
