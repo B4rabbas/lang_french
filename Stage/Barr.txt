@@ -111,7 +111,7 @@ Charge-toi du reste.<NOD<CLO
 êtes tromp-- !<NOD<FAC0000<CLO
 <WAI0050
 <FAC0005<MSGPas ENCORE !<NOD
-C'est toujours à moi
+C'est toujours pour moi
 le sale boulot !<NOD
 Et je l'avais vu en
 PREMIER !<NOD<CLR.....<NOD<CLRAlors, tu vas faire quoi ?<NOD
