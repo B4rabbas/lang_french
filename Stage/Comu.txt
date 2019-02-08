@@ -39,7 +39,7 @@ pas...<NOD<CLROh, Peut-être que Jack
 sait où la trouver...<NOD<END
 #0201
 <KEY<MSG<FAC0007Toroko...
-Je le crois pas...<NOD
+Je ne le crois pas...<NOD
 Son frère ainé, Arthur,
 était un fabuleux
 guerrier.<NOD
