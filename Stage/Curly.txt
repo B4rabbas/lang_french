@@ -114,7 +114,7 @@ Victoire !<WAI0140<CMU0000<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
 <MSG<FAC0020Tu as gagné...<NOD
-Je peux plus me battre...<NOD<CLRJe suppose que tu vas
+Je ne peux plus me battre...<NOD<CLRJe suppose que tu vas
 tuer tous les Mimigas,<NOD
 comme les autres robots
 avant toi ?<YNJ0410<CLRJe vois...<NOD<CLRQuel manque de pitié...<NOD<PRI<CLO
