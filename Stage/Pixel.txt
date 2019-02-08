@@ -95,7 +95,7 @@ je l'espérais.<NOD<CLR
 <MSGElle s'est rendormie.<NOD
 <END
 #0254
-<KEY<MSGAparemment, ça prend du temps
+<KEY<MSGApparemment, ça prend du temps
 pour redémarrer.<NOD<FL+1443<END
 #0255
 <KEY<MSG
