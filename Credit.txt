@@ -80,7 +80,7 @@
 
 f2000:0090
 [- Méchants -]0000-0064
-[Le traître assoife]0000-0016
+[Le traître assoiffé]0000-0016
 [ de pouvoir]0000-0016
 [  Le Docteur]0006-0064
 [Le larbin du Docteur]0000-0032
