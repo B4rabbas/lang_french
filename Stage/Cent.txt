@@ -219,7 +219,7 @@ je suppose.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSGMaintenant que tu le dis...<NOD
 Il y a une sorte de champignon,
-il parait qu'il rend la mémoire<NOD
+il paraît qu'il rend la mémoire<NOD
 quand on le mange...<NOD
 Ça marcherait sur elle, tu crois ?<NOD<END
 #0313
