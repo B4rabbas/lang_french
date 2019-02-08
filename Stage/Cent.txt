@@ -381,7 +381,7 @@ je la salue !<NOD<END
 
 #0460
 <PRI<MSG<TURAttention aux Gunfish ! (Note:
-Ceux qui s'en servent de plateformes
+Ceux qui s'en servent comme plateformes
 le font à leurs risques et périls.)<NOD<END
 
 #0480
