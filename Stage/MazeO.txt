@@ -103,7 +103,7 @@ Finalement, je
 n'ai pu sauver aucun
 des enfants.<NOD
 Et vu mon état,
-Je suis pas prête
+Je ne suis pas prête
 de repartir...<NOD<END
 #0321
 <KEY<MSG<FAC0020Oui, j'ai survécu, mais
