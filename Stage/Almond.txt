@@ -222,7 +222,7 @@ RETRAITE !!<NOD<CLO
 <MSG<FAC0026Hmph !<NOD<CLRTu es toujours en
 état de marche, à ce
 que je vois !<NOD<CLR<FAC0019Toi !<NOD<CLRTu es cette sorcière
-qui m'a jeté ici !<NOD<CLRJ'espère pour toi que
+qui m'a jetée ici !<NOD<CLRJ'espère pour toi que
 les enfants vont bien !<NOD<CLR<FAC0016Ha ! Silence !<NOD<CLRPour qui tu te prends ?
 Pour leur mère ?<NOD
 Sais-tu au moins ce
