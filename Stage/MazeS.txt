@@ -134,7 +134,7 @@ DE MOI OU QUOI ?!<NOD
 <KEY
 <FLJ0762:0502
 <FLJ0761:0501
-<MSGC'est un énome rocher.<NOD
+<MSGC'est un énorme rocher.<NOD
 De derrière, tu sens
 un vent souffler.<NOD
 Il faudrait au moins
