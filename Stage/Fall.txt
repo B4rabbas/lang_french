@@ -24,8 +24,8 @@
 <MSG
 <CMU0010Ratrappé par Kazuma !<WAI0160<CLR<FAC0010Phew...<NOD<CLRJ'aurais jamais cru
 que tu y arriverais.<NOD<CLRTu as détruit le noyau...<NOD<CLRÀ présent, le monde est
-libre de toutes incarnations
-futures du Docteur.<NOD
+libre de toutes
+incarnations futures du Docteur.<NOD
 La paix a été restaurée !<NOD<CLR
 Maintenant, rentrons.<NOD<CLO
 <KEY<FAO0004<HMC<TRA0000:0100:0001:0015
