@@ -110,7 +110,7 @@ Je vais en finir
 avec tout ça !<NOD<CLRNe m'en veux pas
 mais je dois te
 mettre en pièces !<NOD<CLR<FAC0019Ah ! Hé, toi,
-la grosse boite, là !<NOD
+la grosse boîte, là !<NOD
 Pousse par le
 millieu, tu veux ?<NOD<FAC0000<CLO<CMU0000
 <WAI0100
