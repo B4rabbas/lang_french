@@ -92,7 +92,7 @@ amie ?<NOD<CLRElle est partie vers la
 Tu as l'air en
 pleine forme !<NOD<CLRCette sorcière t'a
 jeté ici aussi, hein ?<NOD
-Pareil pour moi !<NOD<CLR<FAC0020Alors t'as pas pu
+Pareil pour moi !<NOD<CLR<FAC0020Alors tu n'as pas pu
 les battre non plus...<NOD
 Je plaçais mes espoirs
 sur toi, mais...<NOD<CLREt moi, j'ai éssayé.
