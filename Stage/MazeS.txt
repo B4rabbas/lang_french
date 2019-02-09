@@ -100,7 +100,7 @@ arrivera pas...<NOD<FAC0000<CLO
 <MYD0000
 <MSG<FAC0019Toi !<NOD<CLR<FAC0014Hohoho !<NOD<CLRTu es vivant, je vois !<NOD<CLREt en plus, tu essaies
 de t'enfuir du
-Labyrinthe !<NOD<CLRTu peux pas rester
+Labyrinthe !<NOD<CLRTu ne peux pas rester
 tranquille comme un
 bon petit robot ?<NOD<CLRTu ne feras pas 
 le poids face
