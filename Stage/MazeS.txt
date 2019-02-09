@@ -90,7 +90,7 @@ Tu as vaincu Balrog !<WAI0140<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
 <MSG<FAC0020Ça n'a pas bougé d'un poil.<NOD
 J'ai l'impression
-qu'à deux, on y
+qu'à deux, on n'y
 arrivera pas...<NOD<FAC0000<CLO
 <WAI0050
 <MSGHuzzah !<CMU0000<NOD<CLO
