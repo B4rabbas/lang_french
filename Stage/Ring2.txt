@@ -69,7 +69,7 @@ tu peux pas me tromper.<NOD<END
 <FLJ1271:0211
 <MSGLe Docteur a peur de nous.<NOD
 Alors il nous a enfermés là.<NOD
-J'en suis sur.<NOD<END
+J'en suis sûr.<NOD<END
 #0211
 <PRI<MSGTu as un truc à faire, là.<NOD<END
 #0212
