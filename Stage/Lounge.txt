@@ -79,7 +79,7 @@ Comme si ça me faisait peur.<NOD<END
 <MSGJe suis si fatigué...<NOD<END
 
 #0250
-<KEY<MYB0000<MSGOh, hey.<NOD<CLROn s'est pas déjà vus ?<NOD
+<KEY<MYB0000<MSGOh, hey.<NOD<CLROn ne s'est pas déjà vus ?<NOD
 Oui, au village Mimiga.<NOD
 Quelqu'un nommé "Misery" m'a
 capturé et ammené ici.<NOD
