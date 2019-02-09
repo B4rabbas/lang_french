@@ -163,7 +163,7 @@ il ne doit pas être loin.<NOD<END
 
 #0211
 <MSG<FL+1103<FAC0022Te revoilà.<NOD<CLRTu as trouvé Itoh ?<NOD<CLR
-<FAC0000<GIT1027<IT-0027Donné =Controlleur=<NOD<CLR<FAC0022C'est parfait.<NOD
+<FAC0000<GIT1027<IT-0027Donné =Contrôleur=<NOD<CLR<FAC0022C'est parfait.<NOD
 C'est le Contrôleur
 dont il est si fier.<NOD<GIT0000<CLRHmmm...<NOD<CLRL'analyse serait
 plus facile s'il
