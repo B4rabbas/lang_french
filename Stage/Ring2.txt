@@ -146,7 +146,7 @@ partie avec succès et
 l'ai concentrée.<NOD<CLRTu peux le voir
 sous cette forme...<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
-<MS3<FAC0021...les Cristaux rouges.<WAI0030<NOD<CLREt contrairement aux,
+<MS3<FAC0021...les Cristaux rouges.<WAI0030<NOD<CLREt contrairement aux
 fleurs, les cristaux
 affectent aussi les humains.<NOD<CLR<ANP0400:0050:0000Ho-ho-hoh...<NOD<CLRC'est merveilleux !<NOD<CLRComprends-tu la
 splendeur de ceci ?
