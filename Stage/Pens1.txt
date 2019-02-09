@@ -143,7 +143,7 @@ le souhaite...<NOD
 Si on n'agit pas
 rapidement...<NOD<END
 #0622
-<KEY<FLJ0158:0632<MSG<FAC0010Merci de ton aide.<NOD<CLRLa bécane n'a pas
+<KEY<FLJ0158:0632<MSG<FAC0010Merci pour ton aide.<NOD<CLRLa bécane n'a pas
 vraiment survécu, mais
 au moins, nous, oui.<NOD<END
 #0624
